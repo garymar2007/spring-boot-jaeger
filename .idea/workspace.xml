@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b282a4d-b010-49df-89f1-4b8086ac1e67" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-web-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/lib/spring-webmvc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jaeger-client/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spring-boot-jaeger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jaeger-client/src/main/java/com/garymar/jaegerclient/JaegerClientApplication.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/jaeger-client/src/main/java/com/garymar/jaegerclient/config/JaegerConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jaeger-client/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jaeger-client/src/main/java/com/garymar/jaegerclient/JaegerClientApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jaeger-server/src/main/java/com/garymar/jaegerserver/JaegerServerApplication.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2IAcgfxmqNa0UkNo5itt1bDMxgB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/jaeger-client/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jaeger-client" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.garymar.jaegerclient" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\gary.ma\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b282a4d-b010-49df-89f1-4b8086ac1e67" name="Changes" comment="" />
+      <created>1669627940728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669627940728</updated>
+      <workItem from="1669627942012" duration="1391000" />
+      <workItem from="1669629356196" duration="911000" />
+      <workItem from="1669630283360" duration="258000" />
+      <workItem from="1669630564385" duration="566000" />
+      <workItem from="1669631168381" duration="956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
