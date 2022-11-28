@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import reactor.core.publisher.Mono;
 
 @Controller
-@RequestMapping("/jaeger/client")
+@RequestMapping("/server")
 public class JaegerServerController {
 
     private JaegerServerService jaegerServerService;
